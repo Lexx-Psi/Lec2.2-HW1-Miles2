@@ -7,4 +7,5 @@
 Обращаемся к созданному классу BonusMilesService service = new BonusMilesService();
 Переопределяем miles новым значением int miles = service.calculate(price);
 Результат: новое значение miles равное 5% от 10000. 
+-------------
 Прошу прокомментировать этот текст, правильно ли понял суть урока. 
